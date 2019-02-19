@@ -1,6 +1,6 @@
-=========
-myproject
-=========
+=================
+Cool project name
+=================
 
 
 Add a short description here!
